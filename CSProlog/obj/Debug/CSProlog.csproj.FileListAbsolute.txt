@@ -14,3 +14,11 @@ D:\E-Szkoła\SGGW\Semestr 4\Inżynieria oprogramowania\Projekt\Final 3,0\IO\CSPr
 D:\E-Szkoła\SGGW\Semestr 4\Inżynieria oprogramowania\Projekt\Final 3,0\IO\CSProlog\obj\Debug\CSProlog.dll
 D:\E-Szkoła\SGGW\Semestr 4\Inżynieria oprogramowania\Projekt\Final 3,0\IO\CSProlog\obj\Debug\CSProlog.pdb
 C:\Users\tomek\OneDrive\Pulpit\Semestr4\InżynieriaOprogramowania\ProjekcikProlog\IO\IO\CSProlog\obj\Debug\CSProlog.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\bin\Debug\CSProlog.dll
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\bin\Debug\CSProlog.pdb
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.csprojAssemblyReference.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.CsPrologHelp.resources
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.dll
+C:\Users\Kuba\Desktop\KUBA\Private\STUDIA\4 sem\Inżynieria Oprogramowania\IO\CSProlog\obj\Debug\CSProlog.pdb
